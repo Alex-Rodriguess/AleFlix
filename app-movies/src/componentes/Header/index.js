@@ -6,7 +6,7 @@ function Header() {
             <span>Aleflix</span>
             <nav>
                 <a href="#">Home</a>
-                <a href="#">Assitir</a>
+                <a href="#">Assistir</a>
             </nav>
         </header>
     )
