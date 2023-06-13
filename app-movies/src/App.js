@@ -3,7 +3,7 @@ import Card from "./componentes/Card";
 import Container from "./componentes/Container";
 import Footer from "./componentes/Footer";
 import Header from "./componentes/Header";
-import videos from "./json/db.json";
+import videos from "./json/dbvideos.json";
 
 function App() {
   return (
