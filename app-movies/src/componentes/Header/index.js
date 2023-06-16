@@ -3,10 +3,11 @@ import styles from "./Header.module.css"
 function Header() {
     return (
         <header className={styles.header}>
-            <span>Aleflix</span>
+            <span>PlayFlix</span>
             <nav>
                 <a href="#">Home</a>
-                <a href="#">Assitir</a>
+                <a href="#">Assistir</a>
+                <a href="#">Favoritos</a>
             </nav>
         </header>
     )
