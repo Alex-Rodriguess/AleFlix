@@ -1,6 +1,11 @@
+import styles from "./Watch.module.css"
+
 function Watch() {
     return(
-        <h1>Assistir</h1>
+        <section className="{styles.watch">
+            <h1>Assistir</h1>
+        </section>
+        
     );
 }
 
