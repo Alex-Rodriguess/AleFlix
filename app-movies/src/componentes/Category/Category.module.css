@@ -9,3 +9,7 @@
     gap: 5px;
     justify-content: center;
 }
+
+.category h2 {
+    padding-block: 1.5rem 1rem;
+}
