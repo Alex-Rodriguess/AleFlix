@@ -3,13 +3,13 @@ import Header from "../../componentes/Header";
 import Container from "../../componentes/Container";
 import Footer from "../../componentes/Footer"
 import { useParams } from "react-router-dom";
-import videos from "../../json/dbvideos.json"
+import videos from "../../json/dbvideos.json";
+import PageNotFound from "../PageNotFound/index"
 
 function Watch() {
     const parametros = useParams()
     const video = videos.find((video) => {return video.id === parametros.id})
-    console.log(video)
-
+    if(!video) { return <PageNotFound />}
     return(
         <>
             <Header />

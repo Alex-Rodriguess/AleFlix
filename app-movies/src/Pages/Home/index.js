@@ -6,6 +6,7 @@ import Footer from "../../componentes/Footer";
 import Header from "../../componentes/Header"
 
 function Home() {
+
   return (
     <>
     <Header />
