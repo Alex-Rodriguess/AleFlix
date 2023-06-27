@@ -1,28 +1,31 @@
 import Banner from "../../componentes/Banner";
 import Card from "../../componentes/Card";
-import Category, {categorias, filterCategory} from "../../componentes/Category";
+import Category, {
+  categorias,
+  filterCategory,
+} from "../../componentes/Category";
 import Container from "../../componentes/Container";
 import Footer from "../../componentes/Footer";
-import Header from "../../componentes/Header"
+import Header from "../../componentes/Header";
+import Caroussel from "../../componentes/Caroussel";
 
 function Home() {
-
   return (
     <>
-    <Header />
-    <Banner image="home" />
-    <Container>
-
-      {categorias.map((category, index) =>
+      <Header />
+      <Banner image="home" />
+      <Container>
+        {categorias.map((category, index) => (
           <Category category={category}>
-           {filterCategory(index).map((video) => <Card id={video.id} key={video.id} />)}
+            <Caroussel>
+              {filterCategory(index).map((video) => (
+                <Card id={video.id} key={video.id} />
+              ))}
+            </Caroussel>
           </Category>
-        )
-      }
-
-    </Container>
-    <Footer />
-    
+        ))}
+      </Container>
+      <Footer />
     </>
   );
 }
