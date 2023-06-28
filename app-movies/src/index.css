@@ -17,10 +17,18 @@ code {
     monospace;
 }
 
-/*Formatção geral  dos cards*/
-.cards {
-  display: flex;
-  gap: 5px;
-  flex-wrap: wrap;
-  justify-content: center;
+/* Formatação da Barra de Rolagem */
+body::-webkit-scrollbar {
+  width: 12px;
+  background-color: #222;
+}
+
+body::-webkit-scrollbar-track {
+  background: #222;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #b71c1c;
+  border-radius: 20px;
+  border: 3px solid #222;
 }

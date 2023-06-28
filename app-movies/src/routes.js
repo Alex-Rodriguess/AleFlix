@@ -3,6 +3,7 @@ import Home from "./Pages/Home";
 import Watch from "./Pages/Watch";
 import PageNotFound from "./Pages/PageNotFound";
 import Search from "./Pages/Search";
+import Favorites from "./Pages/Favorites";
 
 function AppRoutes() {
     return (
@@ -11,6 +12,7 @@ function AppRoutes() {
                 <Route path="/" element={ <Home /> } ></Route>
                 <Route path="/watch/:id" element={ <Watch /> } ></Route>
                 <Route path="/search" element={ <Search /> } ></Route>
+                <Route path="/favorites" element={ <Favorites /> } ></Route>
                 <Route path="*" element={ <PageNotFound /> } ></Route>
             </Routes>
         </BrowserRouter>
