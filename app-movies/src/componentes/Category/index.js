@@ -3,9 +3,9 @@ import videos from "../../json/dbvideos.json";
 
 export const categorias = [
     "Gauchas",
-    "Geografia",
-    "Como fazer e usar",
-    "Astronomia e Geografia",
+    "Bandinha",
+    "Pop-Rock",
+    "Rock Internacional",
     "Climatologia, Meteorologia, Vegetação",
     "Geologia e Hidrografia"
   ]
