@@ -24,3 +24,20 @@
     font-size: 18px;
 
 }
+
+@media (max-width: 480px) {
+    .header span {
+        font-size: 1.5rem;
+    }
+    
+    .header a {
+        font-size: 0.95rem;
+        padding-inline: 0.5rem;
+    }
+}
+
+@media (max-width: 380px) {
+    .header a {
+        font-size: 0.75rem;
+    }
+}

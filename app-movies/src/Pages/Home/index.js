@@ -8,10 +8,12 @@ import Container from "../../componentes/Container";
 import Footer from "../../componentes/Footer";
 import Header from "../../componentes/Header";
 import Caroussel from "../../componentes/Caroussel";
+import ScrollToTopButton from "../../componentes/ScrollToTopButton";
 
 function Home() {
   return (
     <>
+      <ScrollToTopButton />
       <Header />
       <Banner image="home" />
       <Container>
