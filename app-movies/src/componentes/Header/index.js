@@ -6,7 +6,7 @@ function Header() {
         <header className={styles.header}>
             <Link to="/">
             <span>
-                PlayFlix
+                KaraokêFlix
             </span>
             </Link>
                 <nav>

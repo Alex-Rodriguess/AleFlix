@@ -22,8 +22,14 @@
     margin-bottom: 1rem;
 }
 
+.container label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-size: 1.5rem;
+}
+
 .container input, .container select {
-    background-color: #fff;
+    background-color: #FFF;
     width: 100%;
     padding: 15px 10px;
     margin-bottom: 0.5rem;
@@ -34,14 +40,21 @@
 }
 
 .container button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    width: 50%;
+    left: 25%;
     background-color: #b71c1c;
     border-radius: 10px;
     font-weight: 600;
     font-size: 1.125rem;
     padding: 24px 28px;
-    border: none;
-    color: #fff;
-    margin-top: 0.5rem;  
+    border: none; 
+    cursor: pointer;
+    color: #FFF;
+    margin-top: 0.5rem;
 }
 
 .container button:hover {
