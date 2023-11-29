@@ -2,6 +2,7 @@ import { useState } from "react";
 import { categorias } from "../Category";
 import styles from "./Form.module.css";
 
+
 function Form() {
 
   const [ url, setUrl ] = useState('')
@@ -37,6 +38,7 @@ function Form() {
       const urlVideo = valideUrl(url)
       if(urlVideo && category) {
           // guardar a url e a category
+          
           const newVideo = { url, category }
           setVideos([...videos, newVideo])
           localStorage.setItem('videos', JSON.stringify([...videos, newVideo]))

@@ -92,6 +92,20 @@
       "category": "Bandinha"
   },
   {
+    "id": "klSkD2pRyKs",
+    "title": "San Marino - Vaza",
+    "url": "https://www.youtube.com/watch?v=klSkD2pRyKs",
+    "cover": "https://img.youtube.com/vi/klSkD2pRyKs/maxresdefault.jpg",
+    "category": "Bandinha"
+  },
+  {
+    "id": "dYu3FzB3-tE",
+    "title": "Sucessos - Bailão",
+    "url": "https://www.youtube.com/watch?v=dYu3FzB3-tE",
+    "cover": "https://img.youtube.com/vi/dYu3FzB3-tE/maxresdefault.jpg",
+    "category": "Bandinha"
+  },
+  {
       "id": "r0IlmwctKOs",
       "title": "Ana Júlia",
       "url": "https://youtu.be/r0IlmwctKOs",
@@ -161,69 +175,5 @@
     "url": "https://youtu.be/-gepZ1SmeIk",
     "cover": "https://img.youtube.com/vi/-gepZ1SmeIk/maxresdefault.jpg",
     "category": "Astronomia e Geografia"
-  },
-  {
-    "id": "bhQsWpGSLeQ",
-    "title": "Os climas e a vegetação natural",
-    "url": "https://www.youtube.com/watch?v=bhQsWpGSLeQ",
-    "cover": "https://img.youtube.com/vi/bhQsWpGSLeQ/maxresdefault.jpg",
-    "category": "Climatologia, Meteorologia, Vegetação"
-  },
-  {
-    "id": "oYZZybbhJII",
-    "title": "Os climas do mundo e do Brasil",
-    "url": "https://www.youtube.com/watch?v=oYZZybbhJII",
-    "cover": "https://img.youtube.com/vi/oYZZybbhJII/maxresdefault.jpg",
-    "category": "Climatologia, Meteorologia, Vegetação"
-  },
-  {
-    "id": "tnFEqmtoNY8",
-    "title": "Terra: Grandes paisagens vegetais naturais",
-    "url": "https://www.youtube.com/watch?v=tnFEqmtoNY8",
-    "cover": "https://img.youtube.com/vi/tnFEqmtoNY8/maxresdefault.jpg",
-    "category": "Climatologia, Meteorologia, Vegetação"
-  },
-  {
-    "id": "of5e0QO6BtY",
-    "title": "GEOGRAFIA Chuvas na Bahia em dezembro de 2021 e suas causas",
-    "url": "https://www.youtube.com/watch?v=of5e0QO6BtY",
-    "cover": "https://img.youtube.com/vi/of5e0QO6BtY/maxresdefault.jpg",
-    "category": "Climatologia, Meteorologia, Vegetação"
-  },
-  {
-    "id": "PY4VyxfefqY",
-    "title": "GEOGRAFIA Chuvas no litoral norte de São Paulo 2023",
-    "url": "https://www.youtube.com/watch?v=PY4VyxfefqY",
-    "cover": "https://img.youtube.com/vi/PY4VyxfefqY/maxresdefault.jpg",
-    "category": "Climatologia, Meteorologia, Vegetação"
-  },
-  {
-    "id": "cp_xDdMT6eU",
-    "title": "Litosfera e Relevo Continental",
-    "url": "https://www.youtube.com/watch?v=cp_xDdMT6eU",
-    "cover": "https://img.youtube.com/vi/cp_xDdMT6eU/maxresdefault.jpg",
-    "category": "Geologia e Hidrografia"
-  },
-  {
-    "id": "3XPAx3aQ760",
-    "title": "Relevo Continental e Agentes Externos",
-    "url": "https://www.youtube.com/watch?v=3XPAx3aQ760",
-    "cover": "https://img.youtube.com/vi/3XPAx3aQ760/maxresdefault.jpg",
-    "category": "Geologia e Hidrografia"
-  },
-  {
-    "id": "QWBDmGd9t4s",
-    "title": "A Hidrosfera e a distribuição das águas",
-    "url": "https://www.youtube.com/watch?v=QWBDmGd9t4s",
-    "cover": "https://img.youtube.com/vi/QWBDmGd9t4s/maxresdefault.jpg",
-    "category": "Geologia e Hidrografia"
-  },
-  {
-    "id": "4ADuk1kY6Vw",
-    "title": "GEOGRAFIA Terremoto na Turquia e na Síria 2023",
-    "url": "https://www.youtube.com/watch?v=4ADuk1kY6Vw",
-    "cover": "https://img.youtube.com/vi/4ADuk1kY6Vw/maxresdefault.jpg",
-    "category": "Geologia e Hidrografia"
   }
-
 ]
