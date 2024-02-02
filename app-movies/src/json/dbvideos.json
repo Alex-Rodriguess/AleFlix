@@ -106,6 +106,27 @@
     "category": "Bandinha"
   },
   {
+    "id": "MRCA_DyMHpw",
+    "title": "Querida Amiga",
+    "url": "https://www.youtube.com/watch?v=MRCA_DyMHpw",
+    "cover": "https://img.youtube.com/vi/MRCA_DyMHpw/maxresdefault.jpg",
+    "category": "Bandinha"
+  },
+  {
+    "id": "uMiPoUqJMqk",
+    "title": "Só uma Canção",
+    "url": "https://www.youtube.com/watch?v=uMiPoUqJMqk",
+    "cover": "https://img.youtube.com/vi/uMiPoUqJMqk/maxresdefault.jpg",
+    "category": "Bandinha"
+  },
+  {
+    "id": "BplcztX4FJQ",
+    "title": "Pagina Virada",
+    "url": "https://www.youtube.com/watch?v=BplcztX4FJQ",
+    "cover": "https://img.youtube.com/vi/BplcztX4FJQ/maxresdefault.jpg",
+    "category": "Bandinha"
+  },
+  {
       "id": "r0IlmwctKOs",
       "title": "Ana Júlia",
       "url": "https://youtu.be/r0IlmwctKOs",
@@ -149,31 +170,172 @@
     "category": "Pop-Rock"
   },
   {
-    "id": "lT-3Es67dPs",
+    "id": "47miSiVe1hk",
     "title": "More Than Words",
-    "url": "https://youtu.be/lT-3Es67dPs",
-    "cover": "https://img.youtube.com/vi/lT-3Es67dPs/maxresdefault.jpg",
+    "url": "https://youtu.be/47miSiVe1hk",
+    "cover": "https://img.youtube.com/vi/47miSiVe1hk/maxresdefault.jpg",
     "category": "Rock Internacional"
   },
   {
-    "id": "gKjIiaAXfDs",
+    "id": "SWIdKtDlI_4",
     "title": "Every Breath You Take",
-    "url": "https://youtu.be/gKjIiaAXfDs",
-    "cover": "https://img.youtube.com/vi/gKjIiaAXfDs/maxresdefault.jpg",
+    "url": "https://youtu.be/SWIdKtDlI_4",
+    "cover": "https://img.youtube.com/vi/SWIdKtDlI_4/maxresdefault.jpg",
     "category": "Rock Internacional"
   },
   {
-    "id": "rGTHC4I_JPk",
-    "title": "Queen - Love Of My Life",
-    "url": "https://youtu.be/rGTHC4I_JPk",
-    "cover": "https://img.youtube.com/vi/rGTHC4I_JPk/maxresdefault.jpg",
+    "id": "R-cRps-9Xls",
+    "title": "Queen - I Want to Brake free",
+    "url": "https://youtu.be/R-cRps-9Xls",
+    "cover": "https://img.youtube.com/vi/R-cRps-9Xls/maxresdefault.jpg",
     "category": "Rock Internacional"
   },
   {
-    "id": "-gepZ1SmeIk",
-    "title": "Nazareth - Love Hurts",
-    "url": "https://youtu.be/-gepZ1SmeIk",
-    "cover": "https://img.youtube.com/vi/-gepZ1SmeIk/maxresdefault.jpg",
-    "category": "Astronomia e Geografia"
+    "id": "aEF3oCi58Z8",
+    "title": "Losing My Religion - R.E.M.",
+    "url": "https://youtu.be/aEF3oCi58Z8",
+    "cover": "https://img.youtube.com/vi/aEF3oCi58Z8/maxresdefault.jpg",
+    "category": "Rock Internacional"
+  },
+  {
+    "id": "uhiamj_I7II",
+    "title": "Sweet Child o' Mine - Guns N' Roses",
+    "url": "https://youtu.be/uhiamj_I7II",
+    "cover": "https://img.youtube.com/vi/uhiamj_I7II/maxresdefault.jpg",
+    "category": "Rock Internacional"
+  },
+  {
+    "id": "d8BaGQkYGi0",
+    "title": "Dire Straits • Sultans of Swing ",
+    "url": "https://youtu.be/d8BaGQkYGi0",
+    "cover": "https://img.youtube.com/vi/d8BaGQkYGi0/maxresdefault.jpg",
+    "category": "Rock Internacional"
+  },
+  {
+    "id": "sgcQKG6gLck",
+    "title": "Bruno e Marrone - Acorrentado em Você",
+    "url": "https://youtu.be/sgcQKG6gLck",
+    "cover": "https://img.youtube.com/vi/sgcQKG6gLck/maxresdefault.jpg",
+    "category": "Barzinho"
+  },
+  {
+    "id": "Z7JN1gdkHbA",
+    "title": "Bruno e Marrone - Agarrada em Mim",
+    "url": "https://youtu.be/Z7JN1gdkHbA",
+    "cover": "https://img.youtube.com/vi/Z7JN1gdkHbA/maxresdefault.jpg",
+    "category": "Barzinho"
+  },
+  {
+    "id": "oEIA7XkMJOg",
+    "title": "Bruno e Marrone - Agora Vai/Passou da Conta",
+    "url": "https://youtu.be/oEIA7XkMJOg",
+    "cover": "https://img.youtube.com/vi/oEIA7XkMJOg/maxresdefault.jpg",
+    "category": "Barzinho"
+  },
+  {
+    "id": "alACSf-CC0Y",
+    "title": "Bruno e Marrone - Coisa de Pele",
+    "url": "https://youtu.be/alACSf-CC0Y",
+    "cover": "https://img.youtube.com/vi/alACSf-CC0Y/maxresdefault.jpg",
+    "category": "Barzinho"
+  },
+  {
+    "id": "dzp7NfXh_Q0",
+    "title": "Bruno e Marrone - Coração de Pedra",
+    "url": "https://youtu.be/dzp7NfXh_Q0",
+    "cover": "https://img.youtube.com/vi/dzp7NfXh_Q0/maxresdefault.jpg",
+    "category": "Barzinho"
+  },
+  {
+    "id": "vAJw0zas6hI",
+    "title": "Bruno e Marrone - Dormi na Praça",
+    "url": "https://youtu.be/vAJw0zas6hI",
+    "cover": "https://img.youtube.com/vi/vAJw0zas6hI/maxresdefault.jpg",
+    "category": "Barzinho"
+  },
+  {
+    "id": "2ewM8eVAUII",
+    "title": "Bruno e Marrone - Amor de Ping Pong",
+    "url": "https://youtu.be/2ewM8eVAUII",
+    "cover": "https://img.youtube.com/vi/2ewM8eVAUII/maxresdefault.jpg",
+    "category": "Barzinho"
+  },
+  {
+    "id": "tN61ruLwhPs",
+    "title": "Porta Retrato",
+    "url": "https://youtu.be/tN61ruLwhPs",
+    "cover": "https://img.youtube.com/vi/tN61ruLwhPs/maxresdefault.jpg",
+    "category": "Barzinho"
+  },
+  {
+    "id": "josMFI3yivY",
+    "title": "Agenda Rabiscada",
+    "url": "https://youtu.be/josMFI3yivY",
+    "cover": "https://img.youtube.com/vi/josMFI3yivY/maxresdefault.jpg",
+    "category": "Barzinho"
+  },
+  {
+    "id": "x8qHy2Lb4DU",
+    "title": "Nova York",
+    "url": "https://youtu.be/x8qHy2Lb4DU",
+    "cover": "https://img.youtube.com/vi/x8qHy2Lb4DU/maxresdefault.jpg",
+    "category": "Barzinho"
+  },
+  {
+    "id": "MWWgCB816Wo",
+    "title": "Saudade",
+    "url": "https://youtu.be/MWWgCB816Wo",
+    "cover": "https://img.youtube.com/vi/MWWgCB816Wo/maxresdefault.jpg",
+    "category": "Barzinho"
+  },
+  {
+    "id": "Q7KTuVLNfHI",
+    "title": "Prazer por Prazer",
+    "url": "https://youtu.be/Q7KTuVLNfHI",
+    "cover": "https://img.youtube.com/vi/Q7KTuVLNfHI/maxresdefault.jpg",
+    "category": "Barzinho"
+  },
+  {
+    "id": "I8RHpbB49Z8",
+    "title": "Bijuteria",
+    "url": "https://youtu.be/I8RHpbB49Z8",
+    "cover": "https://img.youtube.com/vi/I8RHpbB49Z8/maxresdefault.jpg",
+    "category": "Barzinho"
+  },
+  {
+    "id": "9t_mQwJ_b8Y",
+    "title": "Sou Eu",
+    "url": "https://youtu.be/9t_mQwJ_b8Y",
+    "cover": "https://img.youtube.com/vi/9t_mQwJ_b8Y/maxresdefault.jpg",
+    "category": "Barzinho"
+  },
+  {
+    "id": "8Qqof-Re98s",
+    "title": "Cheia de Manias",
+    "url": "https://youtu.be/8Qqof-Re98s",
+    "cover": "https://img.youtube.com/vi/8Qqof-Re98s/maxresdefault.jpg",
+    "category": "Pagode"
+  },
+  {
+    "id": "tYsC4O8ti1s",
+    "title": "Maravilha",
+    "url": "https://youtu.be/tYsC4O8ti1s",
+    "cover": "https://img.youtube.com/vi/tYsC4O8ti1s/maxresdefault.jpg",
+    "category": "Pagode"
+  },
+  {
+    "id": "0CNaQsajV3I",
+    "title": "Quando te Encontrei",
+    "url": "https://youtu.be/0CNaQsajV3I",
+    "cover": "https://img.youtube.com/vi/0CNaQsajV3I/maxresdefault.jpg",
+    "category": "Pagode"
+  },
+  {
+    "id": "0HF5XO6SKR0",
+    "title": "Sozinho",
+    "url": "https://youtu.be/0HF5XO6SKR0",
+    "cover": "https://img.youtube.com/vi/0HF5XO6SKR0/maxresdefault.jpg",
+    "category": "Pagode"
   }
+
 ]

@@ -6,8 +6,8 @@ export const categorias = [
     "Bandinha",
     "Pop-Rock",
     "Rock Internacional",
-    "Climatologia, Meteorologia, Vegetação",
-    "Geologia e Hidrografia"
+    "Barzinho",
+    "Pagode"
   ]
   
   export function filterCategory(id) {
