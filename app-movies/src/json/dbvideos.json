@@ -127,19 +127,62 @@
     "category": "Bandinha"
   },
   {
-      "id": "r0IlmwctKOs",
-      "title": "Ana Júlia",
-      "url": "https://youtu.be/r0IlmwctKOs",
-      "cover": "https://img.youtube.com/vi/r0IlmwctKOs/maxresdefault.jpg",
-      "category": "Pop-Rock"
-  },
+    "id": "e96dRncJMY0",
+    "title": "Engenheiros - Camila",
+    "url": "https://youtu.be/e96dRncJMY0",
+    "cover": "https://img.youtube.com/vi/e96dRncJMY0/maxresdefault.jpg",
+    "category": "Pop-Rock"
+},
+
   {
-    "id": "3NcEMszAqbw",
-    "title": "Astronauta de Mármore",
-    "url": "https://youtu.be/3NcEMszAqbw",
-    "cover": "https://img.youtube.com/vi/3NcEMszAqbw/maxresdefault.jpg",
+    "id": "CxEs_zSh-gE",
+    "title": "Astronauta de Marmore",
+    "url": "https://youtu.be/CxEs_zSh-gE",
+    "cover": "https://img.youtube.com/vi/CxEs_zSh-gE/maxresdefault.jpg",
     "category": "Pop-Rock"
   },
+  {
+    "id": "AqomcZZh1Ig",
+    "title": "Engenheiros - Infinita Higway",
+    "url": "https://youtu.be/AqomcZZh1Ig",
+    "cover": "https://img.youtube.com/vi/AqomcZZh1Ig/maxresdefault.jpg",
+    "category": "Pop-Rock"
+},
+{
+  "id": "7r4Xb5GDaVs",
+  "title": "Engenheiros - O Papa é Pop",
+  "url": "https://youtu.be/7r4Xb5GDaVs",
+  "cover": "https://img.youtube.com/vi/7r4Xb5GDaVs/maxresdefault.jpg",
+  "category": "Pop-Rock"
+},
+{
+  "id": "phiRvTUM00Y",
+  "title": "Nenhum de Nós - Voce vai lembra de min",
+  "url": "https://youtu.be/phiRvTUM00Y",
+  "cover": "https://img.youtube.com/vi/phiRvTUM00Y/maxresdefault.jpg",
+  "category": "Pop-Rock"
+},
+  {
+    "id": "e96dRncJMY0",
+    "title": "Nenhum de Nós - Camila",
+    "url": "https://youtu.be/e96dRncJMY0",
+    "cover": "https://img.youtube.com/vi/e96dRncJMY0/maxresdefault.jpg",
+    "category": "Pop-Rock"
+  },
+  {
+    "id": "HSC4EeTCd5g",
+    "title": "Carla",
+    "url": "https://youtu.be/HSC4EeTCd5g",
+    "cover": "https://img.youtube.com/vi/HSC4EeTCd5g/maxresdefault.jpg",
+    "category": "Pop-Rock"
+  },
+    {
+        "id": "r0IlmwctKOs",
+        "title": "Ana Júlia",
+        "url": "https://youtu.be/r0IlmwctKOs",
+        "cover": "https://img.youtube.com/vi/r0IlmwctKOs/maxresdefault.jpg",
+        "category": "Pop-Rock"
+    },
   {
     "id": "yOZ_cFyeCnE",
     "title": "Cowboy fora da Lei",
@@ -212,17 +255,51 @@
     "category": "Rock Internacional"
   },
   {
-    "id": "GLSvA8AM0q",
+    "id": "yoSO2u2gunY",
     "title": "Traia Véia - Nova York/Esperando na Janela",
-    "url": "https://youtu.be/GLSvA8AM0q",
-    "cover": "https://img.youtube.com/vi/GLSvA8AM0q/maxresdefault.jpg",
+    "url": "https://youtu.be/yoSO2u2gunY",
+    "cover": "https://img.youtube.com/vi/yoSO2u2gunY/maxresdefault.jpg",
     "category": "Barzinho"
   },
   {
-    "id": "Z7JN1gdkHbA",
-    "title": "Bruno e Marrone - Agarrada em Mim",
-    "url": "https://youtu.be/Z7JN1gdkHbA",
-    "cover": "https://img.youtube.com/vi/Z7JN1gdkHbA/maxresdefault.jpg",
+    "id": "DOw3XHMw0xE",
+    "title": "Traia Véia - MIL RAZÕES PARA CHORAR SEM ME CONTROLAR",
+    "url": "https://youtu.be/DOw3XHMw0xE",
+    "cover": "https://img.youtube.com/vi/DOw3XHMw0xE/maxresdefault.jpg",
+    "category": "Barzinho"
+  },
+  {
+    "id": "SNw8mq-dCyc",
+    "title": "Traia Véia - SOU EU PRA NÃO PENSAR EM VOCÊ",
+    "url": "https://youtu.be/SNw8mq-dCyc",
+    "cover": "https://img.youtube.com/vi/SNw8mq-dCyc/maxresdefault.jpg",
+    "category": "Barzinho"
+  },
+  {
+    "id": "PW51JeJTojg",
+    "title": "Traia Véia - TE AMAR FOI ILUSÃO",
+    "url": "https://youtu.be/PW51JeJTojg",
+    "cover": "https://img.youtube.com/vi/PW51JeJTojg/maxresdefault.jpg",
+    "category": "Barzinho"
+  },
+  {
+    "id": "UgNGPX2nYTI",
+    "title": "Traia Véia - Wi Fi",
+    "url": "https://youtu.be/UgNGPX2nYTI",
+    "cover": "https://img.youtube.com/vi/UgNGPX2nYTI/maxresdefault.jpg",
+    "category": "Barzinho"
+  },
+  {
+    "id": "XmKhfUKNmmQ",
+    "title": "Vitor Hugo - Desgarrados",
+    "url": "https://youtu.be/XmKhfUKNmmQ",
+    "cover": "https://img.youtube.com/vi/XmKhfUKNmmQ/maxresdefault.jpg",
+    "category": "Barzinho"
+  },{
+    "id": "XmKhfUKNmmQ",
+    "title": "Traia Véia - Desgarrados",
+    "url": "https://youtu.be/XmKhfUKNmmQ",
+    "cover": "https://img.youtube.com/vi/XmKhfUKNmmQ/maxresdefault.jpg",
     "category": "Barzinho"
   },
   {
@@ -331,11 +408,26 @@
     "category": "Pagode"
   },
   {
-    "id": "0HF5XO6SKR0",
-    "title": "Sozinho",
-    "url": "https://youtu.be/0HF5XO6SKR0",
-    "cover": "https://img.youtube.com/vi/0HF5XO6SKR0/maxresdefault.jpg",
+    "id": "hh0lCAvAs58",
+    "title": "MArrom Bom-Bom",
+    "url": "https://youtu.be/hh0lCAvAs58",
+    "cover": "https://img.youtube.com/vi/hh0lCAvAs58/maxresdefault.jpg",
+    "category": "Pagode"
+  },
+  {
+    "id": "362Am-M2om4",
+    "title": "Primeiro Beijo",
+    "url": "https://youtu.be/362Am-M2om4",
+    "cover": "https://img.youtube.com/vi/362Am-M2om4/maxresdefault.jpg",
+    "category": "Pagode"
+  },
+  {
+    "id": "3jbcH0t9iYk",
+    "title": "Depois do Prazer",
+    "url": "https://youtu.be/3jbcH0t9iYk",
+    "cover": "https://img.youtube.com/vi/3jbcH0t9iYk/maxresdefault.jpg",
     "category": "Pagode"
   }
+
 
 ]
